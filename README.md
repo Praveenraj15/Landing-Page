@@ -1,3 +1,3 @@
 # Landing-Page
 
-https://praveenraj15.github.io/Landing-Page/.
+https://praveenraj15.github.io/Landing-Page/
